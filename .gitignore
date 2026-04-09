@@ -1,0 +1,9 @@
+# Temporary and diagnostic outputs
+*.log
+lark_*.out
+lark_*.err
+provision-report.json
+
+# Editor and system noise
+.DS_Store
+Thumbs.db
